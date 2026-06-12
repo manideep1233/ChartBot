@@ -1,4 +1,6 @@
 venv/
 .env
 __pycache__/
-*.pyc
+.vscode/
+study_history.json
+faiss_db/

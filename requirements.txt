@@ -1,0 +1,7 @@
+streamlit
+langchain-ollama
+langchain-core
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
